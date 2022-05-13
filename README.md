@@ -1,2 +1,2 @@
 # catoonify
-Python ML script that cartoonify an Image 
+Python OpenCV script that cartoonify an Image 
